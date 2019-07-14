@@ -1,2 +1,2 @@
-# Structure-function-and-ppointers
+# Structure-function-and-pointers
 Structures function using pointers
